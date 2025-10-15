@@ -1,0 +1,11 @@
+Id,Name,Type,User,Price
+A001, A001, Chair, Bob, $1200
+A002, A002, Chair, Steve, $1300
+A001, A001, Chair, Greg, $1250
+B001, B001, Table, Dev, $2500
+B001, B001, Table, Alice, $2600
+C001, C001, Sofa, Ryan, $3400
+C001, C001, Sofa, Mike, $3300
+D001, D001, Lamp, Sarah, $450
+D001, D001, Lamp, John, $500
+E001, E001, Desk, Emma, $1800
