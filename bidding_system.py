@@ -28,7 +28,6 @@ class BiddingSystem:
     def run(self):
         while True:
             types = self.get_items_type()
-            print(types)
             print("Available Types:")
             for k, v in enumerate(types, 1):
                 print(f"{k}. {v}")
